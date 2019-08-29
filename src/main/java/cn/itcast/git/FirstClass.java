@@ -7,5 +7,12 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        System.out.println("------------");
+        System.out.println("别说话");
+        System.out.println("别说话");
+        System.out.println("别说话");
+        System.out.println("别说话");
+        System.out.println("别说话");
+
     }
 }
